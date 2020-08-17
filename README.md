@@ -6,5 +6,5 @@ Python 3.x.x and sqlite3
 
 # Usage
 
-![img_1](/img 1)
+![img_1](/img 1.png)
 
