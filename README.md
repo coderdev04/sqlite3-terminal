@@ -6,5 +6,5 @@ Python 3.x.x and sqlite3
 
 # Usage
 
-![img_1](C:/Users/pc/Pictures/C programming tutorial 004.png)
+![img_1](/Pictures/dp1.png)
 
