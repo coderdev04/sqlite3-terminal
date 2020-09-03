@@ -3,13 +3,13 @@ a simple terminal for sqlite3
 
 # Prerequisites
 Python 3.x.x and sqlite3
-"""
+```
 pip install db-sqlite3
-"""
+```
 or
-"""
+```
 python -m pip install db-sqlite3
-"""
+```
 # Usage
 Start by entering your database name(WARNING! do not include .db extention)
 
