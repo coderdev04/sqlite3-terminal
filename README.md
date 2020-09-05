@@ -2,7 +2,7 @@
 a simple terminal for sqlite3
 
 # Prerequisites
-Python 3.x.x and sqlite3,python emulator with library support(for android)
+Python 3.x.x and sqlite3 , python emulator with library support(for android eg.Pydroid3)
 ```
 pip install db-sqlite3
 ```
