@@ -33,5 +33,5 @@ Finish the query with ";" symbol
 2. From the navigation menu, go to pip.
 3. Uncheck prebuilt libraries.
 4. search for ```db-sqlite3``` and install it.
-5. Now copy the code of ```dev-sqlite3-terminal.py``` to the Pydroid editor.
+5. Now copy the code of ```dev-sqlite3_terminal.py``` to the Pydroid editor.
 6. Run the program and then follow the Usage section for further Processions.
