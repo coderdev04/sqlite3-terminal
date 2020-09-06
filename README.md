@@ -27,3 +27,11 @@ Finish the query with ";" symbol
 
 ![img_5](https://user-images.githubusercontent.com/69722491/90663315-20526100-e267-11ea-96d3-749dd1f93071.png)
 
+# Installation(for Android)
+
+1. Install Pydroid3.
+2. From the navigation menu, go to pip.
+3. Uncheck prebuilt libraries.
+4. search for ```db-sqlite3``` and install it.
+5. Now copy the code of ```dev-sqlite3-terminal.py``` to the Pydroid editor.
+6. Run the program and then follow the Usage section for further Processions.
